@@ -23,8 +23,10 @@ Repository for 1/f Workshop at NENA Conference 2023
 │   ├── requirement.txt
 │   └── utils.py
 ├── notebooks
-│   ├── aperiodic_sleep.ipynb
-│   └── preprocess_sleep.ipynb
+│   ├── aperiodic_analysis.ipynb
+│   └── aperiodic_sleep.ipynb
+│   └── preprocess_sleep.ipynb
+
 └── results
     ├── aperiodic.csv
     ├── fooof_groups_dict.pkl
